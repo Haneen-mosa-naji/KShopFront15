@@ -7,7 +7,7 @@ import { yupResolver } from "@hookform/resolvers/yup";
 
 import axios from 'axios';
 
-import { loginSchema } from '../../validation/loginSchema';
+import { loginSchema } from '../../validation/LoginSchema';
 
 export default function Login() {
  
